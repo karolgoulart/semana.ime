@@ -1,0 +1,12 @@
+1. No minicurso de GCC com o professor Guilherme Abelha, a gente aprendeu como funciona o compilador GNU e 
+todo o processo pra transformar o código em C em um programa executável. Vimos as etapas de pré-processamento,
+compilação, montagem e linkagem, além da diferença entre usar bibliotecas estáticas e dinâmicas. 
+Também aprendemos a usar as opções do GCC pra controlar melhor a compilação, criar makefiles pra automatizar 
+o processo e facilitar quando tem vários arquivos, e usar o debugger pra depurar o código, identificar erros e 
+entender o que tá acontecendo durante a execução do programa.
+
+2. Participei de uma maratona de programação com vários desafios pra resolver em pouco tempo e em dupla.
+Foi uma experiência intensa e difícil para mim e para minha dupla, pois ainda somos iniciantes na programação,
+mas muito legal pra colocar em prática o que eu sei, juntar conhecimentos com a minha dupla, pensar rápido e 
+aprender novas formas de resolver problemas de programação
+
